@@ -1,0 +1,35 @@
+.cardabajo1{
+  margin-top: -25px;
+}
+
+.icon{
+  background-repeat: no-repeat;
+  background-position-x: right;
+  height: 76px;
+}
+
+.imagen{
+  background-repeat: no-repeat;
+  background-position-x: left;
+  background-size: 100%;
+  height: 80px;
+  width: 80px;
+  
+}
+
+.cardabajo2{
+  margin-top: -18px;
+  z-index: -1;
+}
+
+.fondowork{
+  background-color: #ff8b64;
+}
+
+.fondo1{
+  background-color: #5746ea;
+}
+
+.fondo2{
+  background-color: #1d204b;
+}
